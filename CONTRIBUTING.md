@@ -32,3 +32,5 @@ Just as for article submissions, we use pull requests for code improvements. If 
 ## Contact us
 
 If you have any questions about the publishing process, please ask [@odevrel](https://twitter.com/odevrel) or contact andreasbATopera.com.
+
+<a href="http://www.youtube.com/watch?v=KvBuoqOYt9U">The 1 Percent Club</a> - <a href="http://www.youtube.com/watch?v=M-Geuu9RbXU">Millionaire Profit Machine</a> - <a href="http://www.youtube.com/watch?v=iqVEdFCBQuo">Auto Binary Signals</a>
